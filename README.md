@@ -1,2 +1,2 @@
-# JavaScrpt.kj
+# JavaScript.kj
  
