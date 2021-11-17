@@ -15,6 +15,11 @@ let pessoa = {
 }
 
 function novapessoa(novoObjetoPessoa){
+    if(typeof novoObjetoPessoa == 'object'){
     pessoa = novoObjetoPessoa
-    return novoObjetoPessoa
+    return true
+    } else {
+        return false
+    }
+
 }
