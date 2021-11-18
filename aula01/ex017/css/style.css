@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+table{
+    background-image: linear-gradient(rgba(238, 130, 238, 0.72),rgba(64, 224, 208, 0.72) );
+    width: 100%;
+    border: 2px solid violet;
+    border-radius: 5px;
+}
+
+table td{
+    background-color: white;
+    width: 50%;
+    border: 2px solid violet;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+}
