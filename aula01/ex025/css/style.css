@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(188, 143, 143, 0.508);
+}
+
+.box{
+    position: relative;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(238, 130, 238, 0.597);
+}
